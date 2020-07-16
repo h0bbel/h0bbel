@@ -1,7 +1,15 @@
-- name: Cowsays
-  uses: mscoutermarsh/cowsays-action@v1
-  with:
-    # What does the cow say?
-    text: # optional, default is Ship it!!!!!
-    # Color of your cow
-    color: # optional, default is white
+on:
+  push
+
+name: Cowsays
+
+jobs:
+  cow:
+    name: Cowsays
+    runs-on: ubuntu-latest
+    steps:
+    - name: Ship it
+      uses: mscoutermarsh/cowsays-action@master
+      with:
+        text: 'ship ship ship!'
+        color: 'red'
