@@ -1,15 +1,13 @@
+name: Hello world!
 on:
-  push
-
-name: Cowsays
+  push:
+    branches:
+      - master
 
 jobs:
-  cow:
-    name: Cowsays
+  sayHelloWorld:
     runs-on: ubuntu-latest
     steps:
-    - name: Ship it
-      uses: mscoutermarsh/cowsays-action@master
-      with:
-        text: 'ship ship ship!'
-        color: 'red'
+      - uses: gr2m/cowsay-action@v1.x
+        with:
+          text: "I am not a developer!"
