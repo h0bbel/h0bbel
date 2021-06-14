@@ -9,7 +9,7 @@
                  ||     ||
     
 
-# Blog posts
+# Blog posts from vNinja.net
 <!-- BLOG-POST-LIST:START -->
 - [ESXi 7.0 SD Card/USB Drive Issue Temporary Workaround](https://vninja.net/2021/06/01/esxi-7.0-sd-card-issue-temporary-workaround/)
 - [Searching vCenter Tasks and Events via PowerShell and GridView](https://vninja.net/2021/05/19/searching-vcenter-tasks-and-events-via-powershell/)
@@ -18,5 +18,5 @@
 - [Creating an Elgato Stream Deck Sleep Button in macOS](https://vninja.net/2021/04/15/elgato-stream-deck-sleep-button/)
 <!-- BLOG-POST-LIST:END -->
 
-
+## GitHub Stats
 [![h0bbel's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0bbel&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
