@@ -17,3 +17,6 @@
 - [ESXi: Error Occurred While Saving Snapshot Msg.changetracker](https://vninja.net/2021/05/18/error-occurred-while-saving-snapshot-msg.changetracker.mirrorcopystatus/)
 - [Creating an Elgato Stream Deck Sleep Button in macOS](https://vninja.net/2021/04/15/elgato-stream-deck-sleep-button/)
 <!-- BLOG-POST-LIST:END -->
+
+
+[![h0bbel's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0bbel)](https://github.com/anuraghazra/github-readme-stats)
