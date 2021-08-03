@@ -11,11 +11,11 @@
 
 # Blog posts from vNinja.net
 <!-- BLOG-POST-LIST:START -->
-- [Storage Field Day #22 — Here We Go](https://vninja.net/2021/07/30/sfd22-here-we-go.md/)
+- [The On-Premise IT Roundtable Podcast: It’s Time to Embrace the Bottlenecks in Storage](https://vninja.net/2021/08/03/the-on-premise-it-roundtable-podcast/)
+- [Storage Field Day #22 — Here We Go](https://vninja.net/2021/07/30/sfd22-here-we-go/)
 - [vSoup Is Back!](https://vninja.net/2021/06/30/vsoup-is-back/)
 - [ESXi 7.0 SD Card/USB Drive Issue Temporary Workaround](https://vninja.net/2021/06/01/esxi-7.0-sd-card-issue-temporary-workaround/)
 - [Searching vCenter Tasks and Events via PowerShell and GridView](https://vninja.net/2021/05/19/searching-vcenter-tasks-and-events-via-powershell/)
-- [ESXi 7.0 U2a Potentially Killing USB and SD drives!](https://vninja.net/2021/05/18/esxi-7.0-u2a-killing-usb-and.sd-drives/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
