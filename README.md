@@ -11,11 +11,11 @@
 
 # Blog posts from vNinja.net
 <!-- BLOG-POST-LIST:START -->
-- [Hot Add NVMe Device Caused PSOD on ESXi](https://vninja.net/2021/09/08/hot-add-nvme-device-caused-psod-on-esxi/)
-- [ESXi SD-Card/USB boot devices unsupported in 7.0u3](https://vninja.net/2021/09/02/esxi-sd-card-usb-boot-device-unsupported-in-7.0u3/)
-- [Upgrading to ESXi 7.0 build 18426014 U2c. ESXi stuck in Not responding from vCenter](https://vninja.net/2021/08/24/upgrading-to-esxi-7.0-build-18426014-u2c-esxi-stuck-in-not-responding-from-vcenter/)
-- [On the Line with Cohesity Podcast Episode 42: Back to Travel and VMworld 2021 with Christian Mohn](https://vninja.net/2021/08/04/on-the-line-cohesity-podcast/)
-- [The On-Premise IT Roundtable Podcast: It’s Time to Embrace the Bottlenecks in Storage](https://vninja.net/2021/08/03/the-on-premise-it-roundtable-podcast/)
+- [VMware vSAN 8 U2 Announced at Explore 2023](https://vninja.net/2023/08/22/vmware-vsan8u2/)
+- [VMware vSAN 8 U2 to the Max](https://vninja.net/2023/08/22/vmware-vsan8u2-to-the-max/)
+- [VMware vSphere 8 U2 Announced at Explore 2023](https://vninja.net/2023/08/22/vmware-vsphere8u2/)
+- [iOS VPN Connection Toggle Shortcut](https://vninja.net/2023/07/17/ios-shortcut-toggle-vpn/)
+- [VMUG TechX 300 Here I Come!](https://vninja.net/2023/06/27/techx-300-here-i-come/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
