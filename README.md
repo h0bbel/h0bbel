@@ -11,11 +11,11 @@
 
 # Blog posts from vNinja.net
 <!-- BLOG-POST-LIST:START -->
+- [Updating Shodan Monitor Assets via REST API and Curl](https://vninja.net/2023/11/01/updating-shodan-monitor-assets-via-rest-api-and-curl/)
 - [Tips for VMware Explore Barcelona 2023](https://vninja.net/2023/10/18/tips-vmware-explore-barcelona-2023/)
 - [VMware Explore 2023 Barcelona: My Sessions](https://vninja.net/2023/09/26/vmware-explore-2023-barcelona-my-sessions/)
 - [Using vSphere Datasets in Salt](https://vninja.net/2023/09/25/vsphere-datasets-in-salt/)
 - [Tech X 300 2023: Wrapped](https://vninja.net/2023/09/23/techx-300-2023-wrapped/)
-- [VMware vSAN 8 U2 Announced at Explore 2023](https://vninja.net/2023/08/22/vmware-vsan8u2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
