@@ -11,7 +11,7 @@
 
 # Blog posts from vNinja.net
 <!-- BLOG-POST-LIST:START -->
-- [Fun and Games With WLED, ESP32, IKEA UPPLYST and Homeassistant](https://vninja.net/2023/12/17/fun-and-games-with-wled-esp32-ikea-upplyst-and-homeassistant/)
+- [Fun and Games With WLED, ESP32, IKEA UPPLYST and Home Assistant](https://vninja.net/2023/12/17/fun-and-games-with-wled-esp32-ikea-upplyst-and-homeassistant/)
 - [Down the Rabbit Hole With VMware Aria Automation Config @ Explore 2023 [VMTN2239BCN]](https://vninja.net/2023/11/08/down-the-rabbit-hole-with-vmware-aria-automation-config-explore-2023/)
 - [VMware Explore 2023 Barcelona Partner Leadership Forum](https://vninja.net/2023/11/03/vmware-explore-2023-barcelona-partner-leadership-forum/)
 - [Updating Shodan Monitor Assets via REST API and Curl](https://vninja.net/2023/11/01/updating-shodan-monitor-assets-via-rest-api-and-curl/)
