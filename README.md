@@ -11,11 +11,11 @@
 
 # Blog posts from vNinja.net
 <!-- BLOG-POST-LIST:START -->
+- [ESX to ESXi and Back Again](https://vNinja.net/2025/06/18/esx-to-esxi-and-back-again/)
 - [VCF 9.0 Is Here — What Does That Mean?](https://vNinja.net/2025/06/17/vcf9-is-here-what-does-that-mean/)
 - [phpIPAM to Homepage](https://vNinja.net/2025/01/22/phpipam-to-homepage/)
 - [Seamless Home Assistant NFC Automations on iPhone](https://vNinja.net/2025/01/02/nfc-tags-iphone-home-assistant/)
 - [Ghostty — Workaround for Missing or Unsuitable Terminal xterm-ghostty](https://vNinja.net/2024/12/28/ghostty-workaround-for-missing-or-unsuitable-terminal-xterm-ghostty/)
-- [Beware Of The Rogue VMs!](https://vNinja.net/2024/11/11/beware-of-the-rogue-vms/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
