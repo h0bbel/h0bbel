@@ -11,11 +11,11 @@
 
 # Blog posts from vNinja.net
 <!-- BLOG-POST-LIST:START -->
+- [When Synology Says No: Building a Minimal rsync-to-NFS Bridge That Actually Works](https://vNinja.net/2026/04/08/when-synology-says-no-rsync-to-nfs/)
 - [VMUG Connect 2026 Amsterdam – Security, Community, and the Reality of &quot;Living with IT&quot;](https://vNinja.net/2026/03/20/vmug-connect-2026-amsterdam-security-community-living-with-it/)
 - [Will We See YOU at VMUG Connect 2026 in Amsterdam?](https://vNinja.net/2025/12/21/vmug-connect-2026-amsterdam-session/)
 - [VMUG Connect is expanding in 2026 with five stops!](https://vNinja.net/2025/11/24/vmug-connect-2026/)
 - [vSphere: It&#39;s All Fun and Games Until Someone Gets Root](https://vNinja.net/2025/09/18/vsphere-its-all-fun-and-games-until-someone-gets-root/)
-- [GL-iNet Opal &lpar;GL-SFT1200&rpar; Travel Router: Real Usage Experience](https://vNinja.net/2025/09/15/gl-inet-opal-travel-router-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
