@@ -11,11 +11,11 @@
 
 # Blog posts from vNinja.net
 <!-- BLOG-POST-LIST:START -->
-- [ESX Has No MFA: A Practical Hardening Checklist](https://vNinja.net/2026/07/01/esxi-mfa-gap-hardening-checklist/)
 - [Closing the Loop](https://vNinja.net/2026/05/18/closing-the-loop/)
 - [Identity Is the Real Attack Surface](https://vNinja.net/2026/05/18/identity-is-the-real-attack-surface/)
 - [vCenter Is the Crown Jewel](https://vNinja.net/2026/05/14/why-vcenter-is-usually-the-real-target/)
 - [ESX Security Advice that Actually Matters in 2026](https://vNinja.net/2026/05/12/esxi-security-advice-that-actually-matters-in-2026/)
+- [VCF Security Reality Check: What This Series Covers](https://vNinja.net/2026/05/12/vcf-security-reality-check/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
