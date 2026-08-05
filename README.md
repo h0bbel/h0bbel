@@ -11,11 +11,11 @@
 
 # Blog posts from vNinja.net
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox VE and Ceph Over a Thunderbolt Ring on Three NUCs](https://vninja.net/2026/08/05/ceph-over-a-thunderbolt-ring-on-three-nucs/)
+- [How DNS and Caddy Work in My Homelab](https://vninja.net/2026/08/05/how-dns-and-caddy-work-in-my-homelab/)
+- [How I GitOps&#39;ed My Homelab](https://vninja.net/2026/08/05/how-i-gitopsed-my-homelab/)
 - [Overriding ESX Host Acceptance Level with Secure Boot Enabled](https://vninja.net/2026/07/31/overriding-esx-host-acceptance-level-with-secure-boot-enabled/)
 - [Ghostty xterm-ghostty Over SSH: What&#39;s Actually Fixed &lpar;and What Isn&#39;t&rpar;](https://vninja.net/2026/07/19/ghostty-ssh-terminfo-whats-actually-fixed/)
-- [Migrating from Unifi UXG-Lite to Express 7](https://vninja.net/2026/07/17/migrating-from-unifi-uxg-lite-to-express-7/)
-- [ESXi Has No MFA: A Practical Hardening Checklist](https://vninja.net/2026/07/03/esxi-mfa-gap-hardening-checklist/)
-- [Closing the Loop: ESX, vCenter, and Identity as One Attack Chain](https://vninja.net/2026/05/18/closing-the-loop/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
