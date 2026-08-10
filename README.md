@@ -11,11 +11,11 @@
 
 # Blog posts from vNinja.net
 <!-- BLOG-POST-LIST:START -->
+- [An NVMe Power-State Bug Kept Crashing My Ceph Cluster](https://vninja.net/2026/08/10/an-nvme-power-state-bug-kept-crashing-my-ceph-cluster/)
 - [Managing Hosts and Zones in My Homelab&#39;s DNS](https://vninja.net/2026/08/05/managing-hosts-and-zones-in-my-homelabs-dns/)
 - [Proxmox VE and Ceph Over a Thunderbolt Ring on Three NUCs](https://vninja.net/2026/08/05/ceph-over-a-thunderbolt-ring-on-three-nucs/)
 - [How DNS and Caddy Work in My Homelab](https://vninja.net/2026/08/05/how-dns-and-caddy-work-in-my-homelab/)
 - [How I GitOps&#39;ed My Homelab](https://vninja.net/2026/08/05/how-i-gitopsed-my-homelab/)
-- [Overriding ESX Host Acceptance Level with Secure Boot Enabled](https://vninja.net/2026/07/31/overriding-esx-host-acceptance-level-with-secure-boot-enabled/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
