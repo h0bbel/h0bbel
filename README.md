@@ -11,11 +11,11 @@
 
 # Blog posts from vNinja.net
 <!-- BLOG-POST-LIST:START -->
+- [UniFi&#39;s Zone-Based Firewall Changes the IoT VLAN Rule](https://vninja.net/2026/08/13/unifi-zone-based-firewall-changes-the-iot-vlan-rule/)
+- [A UniFi Gateway Hardware Swap Silently Dropped My Firewall Rules](https://vninja.net/2026/08/12/unifi-gateway-hardware-swap-silently-dropped-my-firewall-rules/)
 - [Revisiting the Ceph-Over-Thunderbolt Numbers](https://vninja.net/2026/08/10/revisiting-the-ceph-over-thunderbolt-numbers/)
 - [An NVMe Power-State Bug Kept Crashing My Ceph Cluster](https://vninja.net/2026/08/10/an-nvme-power-state-bug-kept-crashing-my-ceph-cluster/)
 - [Managing Hosts and Zones in My Homelab&#39;s DNS](https://vninja.net/2026/08/05/managing-hosts-and-zones-in-my-homelabs-dns/)
-- [Proxmox VE and Ceph Over a Thunderbolt Ring on Three NUCs](https://vninja.net/2026/08/05/ceph-over-a-thunderbolt-ring-on-three-nucs/)
-- [How DNS and Caddy Work in My Homelab](https://vninja.net/2026/08/05/how-dns-and-caddy-work-in-my-homelab/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
